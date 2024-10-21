@@ -10,7 +10,13 @@
 				"/Users/tjackson/Documents/GitHub/gamedesign1/Content/Blueprints/BP_ThirdPersonCharacterCustom.uasset",
 				"/Users/tjackson/Documents/GitHub/gamedesign1/Content/Maps/bunker.umap",
 				"/Users/tjackson/Documents/GitHub/gamedesign1/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
-				"/Users/tjackson/Documents/GitHub/gamedesign1/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset"
+				"/Users/tjackson/Documents/GitHub/gamedesign1/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"/Users/tjackson/Documents/GitHub/gamedesign1/Content/Niagara/Widgets/W_Gradient.uasset",
+				"/Users/tjackson/Documents/GitHub/gamedesign1/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"/Users/tjackson/Documents/GitHub/gamedesign1/Content/Blueprints/BP_ThirdPersonGameModeCustom.uasset",
+				"/Users/tjackson/Documents/GitHub/gamedesign1/Content/__ExternalActors__/Maps/bunker/0/CN/ODW5EU2GPUXGE4J6HYWOAF.uasset",
+				"/Users/tjackson/Documents/GitHub/gamedesign1/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/tjackson/Documents/GitHub/gamedesign1/Content/ThirdPerson/Input/Actions/IA_Move.uasset"
 			]
 		}
 	]
