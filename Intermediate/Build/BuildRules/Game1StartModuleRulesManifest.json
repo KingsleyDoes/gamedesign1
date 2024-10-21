@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"/Users/tjackson/Documents/GitHub/gamedesign1/Source/Game1Start/Game1Start.Build.cs",
+		"/Users/tjackson/Documents/GitHub/gamedesign1/Source/Game1Start.Target.cs",
+		"/Users/tjackson/Documents/GitHub/gamedesign1/Source/Game1StartEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
